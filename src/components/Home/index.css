@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.home-dark-bg {
+  background-color: #000000;
+}
+
+.home-light-bg {
+  background-color: #ffffff;
+}
+
+.home-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}

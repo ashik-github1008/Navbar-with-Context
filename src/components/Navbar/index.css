@@ -1,0 +1,37 @@
+/* Write your CSS here */
+
+.navbar-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.navbar-body-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.navbar-body-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.navbar-list-container {
+  display: flex;
+  flex-direction: row;
+  color: #171f46;
+}
+
+.dark-list {
+  color: #ffffff;
+}
+
+.navbar-dark-bg {
+  background-color: #333333;
+}
+
+.navbar-light-bg {
+  background-color: #ffffff;
+}

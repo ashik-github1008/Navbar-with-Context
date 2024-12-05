@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.about-dark-bg {
+  background-color: #000000;
+}
+
+.about-light-bg {
+  background-color: #ffffff;
+}
+
+.about-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
